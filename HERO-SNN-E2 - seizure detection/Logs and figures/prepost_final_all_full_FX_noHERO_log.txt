@@ -1,0 +1,121 @@
+=== arm=baseline | group=all | mode=full_FX_noHERO | 29-Oct-2026 23:01:40 ===
+
+--- Fold 1/10 | test participant P1 ---
+   [encode:participant] mean spike density 0.104; near-silent ch 2.2/epoch, saturated ch 1.1/epoch
+   using drift=0.00128, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 229 of 720
+   [fuel] training samples misclassified in-sample: 224 of 720
+   [fuel] training samples misclassified in-sample: 219 of 720
+   [fuel] training samples misclassified in-sample: 223 of 720
+   [fuel] training samples misclassified in-sample: 239 of 720
+   P1: bAcc=86.7%  per-class recall [92% 82%] [22.4 min, saved]
+
+--- Fold 2/10 | test participant P2 ---
+   [encode:participant] mean spike density 0.099; near-silent ch 2.2/epoch, saturated ch 1.1/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 179 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [fuel] training samples misclassified in-sample: 204 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [fuel] training samples misclassified in-sample: 199 of 720
+   P2: bAcc=78.1%  per-class recall [91% 66%] [23.8 min, saved]
+
+--- Fold 3/10 | test participant P3 ---
+   [encode:participant] mean spike density 0.105; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 210 of 720
+   [fuel] training samples misclassified in-sample: 177 of 720
+   [fuel] training samples misclassified in-sample: 179 of 720
+   [fuel] training samples misclassified in-sample: 185 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   P3: bAcc=57.5%  per-class recall [35% 80%] [19.6 min, saved]
+
+--- Fold 4/10 | test participant P4 ---
+   [encode:participant] mean spike density 0.102; near-silent ch 2.4/epoch, saturated ch 1.1/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 196 of 720
+   [fuel] training samples misclassified in-sample: 228 of 720
+   [fuel] training samples misclassified in-sample: 203 of 720
+   [fuel] training samples misclassified in-sample: 204 of 720
+   [fuel] training samples misclassified in-sample: 203 of 720
+   P4: bAcc=78.3%  per-class recall [86% 71%] [24.8 min, saved]
+
+--- Fold 5/10 | test participant P5 ---
+   [encode:participant] mean spike density 0.102; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 197 of 720
+   [fuel] training samples misclassified in-sample: 215 of 720
+   [fuel] training samples misclassified in-sample: 189 of 720
+   [fuel] training samples misclassified in-sample: 210 of 720
+   [fuel] training samples misclassified in-sample: 196 of 720
+   P5: bAcc=80.4%  per-class recall [76% 85%] [22.0 min, saved]
+
+--- Fold 6/10 | test participant P6 ---
+   [encode:participant] mean spike density 0.107; near-silent ch 1.7/epoch, saturated ch 0.9/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 189 of 720
+   [fuel] training samples misclassified in-sample: 178 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [fuel] training samples misclassified in-sample: 192 of 720
+   [fuel] training samples misclassified in-sample: 179 of 720
+   P6: bAcc=64.2%  per-class recall [55% 73%] [21.5 min, saved]
+
+--- Fold 7/10 | test participant P7 ---
+   [encode:participant] mean spike density 0.108; near-silent ch 1.7/epoch, saturated ch 0.9/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 207 of 720
+   [fuel] training samples misclassified in-sample: 169 of 720
+   [fuel] training samples misclassified in-sample: 175 of 720
+   [fuel] training samples misclassified in-sample: 176 of 720
+   [fuel] training samples misclassified in-sample: 164 of 720
+   P7: bAcc=58.3%  per-class recall [32% 84%] [21.5 min, saved]
+
+--- Fold 8/10 | test participant P8 ---
+   [encode:participant] mean spike density 0.101; near-silent ch 2.1/epoch, saturated ch 1.1/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 182 of 720
+   [fuel] training samples misclassified in-sample: 174 of 720
+   [fuel] training samples misclassified in-sample: 186 of 720
+   [fuel] training samples misclassified in-sample: 221 of 720
+   [fuel] training samples misclassified in-sample: 203 of 720
+   P8: bAcc=78.9%  per-class recall [83% 74%] [24.8 min, saved]
+
+--- Fold 9/10 | test participant P9 ---
+   [encode:participant] mean spike density 0.101; near-silent ch 2.1/epoch, saturated ch 1.1/epoch
+   using drift=0.0102, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 184 of 720
+   [fuel] training samples misclassified in-sample: 183 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [fuel] training samples misclassified in-sample: 172 of 720
+   [fuel] training samples misclassified in-sample: 160 of 720
+   P9: bAcc=65.6%  per-class recall [68% 63%] [23.4 min, saved]
+
+--- Fold 10/10 | test participant P10 ---
+   [encode:participant] mean spike density 0.104; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.00256, eta=0, passes=0
+   [fuel] training samples misclassified in-sample: 207 of 720
+   [fuel] training samples misclassified in-sample: 217 of 720
+   [fuel] training samples misclassified in-sample: 233 of 720
+   [fuel] training samples misclassified in-sample: 229 of 720
+   [fuel] training samples misclassified in-sample: 182 of 720
+   P10: bAcc=83.3%  per-class recall [82% 85%] [21.2 min, saved]
+
+===== SUMMARY | arm=baseline (10/10 folds) =====
+   PID     bAcc   per-class recall
+     1    86.7%   [92% 82%]
+     2    78.1%   [91% 66%]
+     3    57.5%   [35% 80%]
+     4    78.3%   [86% 71%]
+     5    80.4%   [76% 85%]
+     6    64.2%   [55% 73%]
+     7    58.3%   [32% 84%]
+     8    78.9%   [83% 74%]
+     9    65.6%   [68% 63%]
+    10    83.3%   [82% 85%]
+Mean per-fold bAcc: 73.1%
+Pooled: bAcc=73.8%  per-class recall [73.2% 74.3%]  overallAcc=73.8%
+Pooled confusion (rows=true, cols=predicted):
+   966   354
+   339   981
+
+Results saved to prepost_final_results_all_full_FX_noHERO.mat

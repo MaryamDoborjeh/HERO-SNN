@@ -1,0 +1,161 @@
+=== arm=HERO | group=all | mode=full_FX | 30-Oct-2026 02:46:34 ===
+
+--- Fold 1/10 | test participant P1 ---
+   [encode:participant] mean spike density 0.104; near-silent ch 2.2/epoch, saturated ch 1.1/epoch
+   using drift=0.00128, eta=0.01, passes=2
+   [fuel] training samples misclassified in-sample: 229 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f1.mat
+   [fuel] training samples misclassified in-sample: 224 of 720
+   [fuel] training samples misclassified in-sample: 219 of 720
+   [fuel] training samples misclassified in-sample: 223 of 720
+   [fuel] training samples misclassified in-sample: 239 of 720
+   P1: bAcc=90.4%  per-class recall [98% 83%] [63.8 min, saved]
+   HERO changes: 1954 synapses depressed (91.0% of positive internal), mean dW=-0.7960, 936 driven to 0
+   homeostasis: thresholds up 208 / down 80 of 288 internal neurons (mean |dTh|=0.7587); mean internal rate 0.0980 -> 0.0671
+   error signal fired: [216 237] of 720 training samples per pass
+
+--- Fold 2/10 | test participant P2 ---
+   [encode:participant] mean spike density 0.099; near-silent ch 2.2/epoch, saturated ch 1.1/epoch
+   using drift=0.0102, eta=0.05, passes=2
+   [fuel] training samples misclassified in-sample: 179 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f2.mat
+   [fuel] training samples misclassified in-sample: 181 of 720
+   [fuel] training samples misclassified in-sample: 193 of 720
+   [fuel] training samples misclassified in-sample: 213 of 720
+   [fuel] training samples misclassified in-sample: 206 of 720
+   P2: bAcc=83.3%  per-class recall [96% 71%] [47.7 min, saved]
+   HERO changes: 2004 synapses depressed (89.2% of positive internal), mean dW=-1.2933, 1279 driven to 0
+   homeostasis: thresholds up 145 / down 143 of 288 internal neurons (mean |dTh|=0.3278); mean internal rate 0.0921 -> 0.0208
+   error signal fired: [207 232] of 720 training samples per pass
+
+--- Fold 3/10 | test participant P3 ---
+   [encode:participant] mean spike density 0.105; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.00256, eta=0.01, passes=1
+   [fuel] training samples misclassified in-sample: 210 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f3.mat
+   [fuel] training samples misclassified in-sample: 177 of 720
+   [fuel] training samples misclassified in-sample: 179 of 720
+   [fuel] training samples misclassified in-sample: 185 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   P3: bAcc=61.7%  per-class recall [38% 85%] [40.7 min, saved]
+   HERO changes: 1880 synapses depressed (86.6% of positive internal), mean dW=-0.3411, 601 driven to 0
+   homeostasis: thresholds up 199 / down 89 of 288 internal neurons (mean |dTh|=0.4707); mean internal rate 0.0905 -> 0.0788
+   error signal fired: [166] of 720 training samples per pass
+
+--- Fold 4/10 | test participant P4 ---
+   [encode:participant] mean spike density 0.102; near-silent ch 2.4/epoch, saturated ch 1.1/epoch
+   using drift=0.00512, eta=0.05, passes=1
+   [fuel] training samples misclassified in-sample: 172 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f4.mat
+   [fuel] training samples misclassified in-sample: 218 of 720
+   [fuel] training samples misclassified in-sample: 191 of 720
+   [fuel] training samples misclassified in-sample: 185 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   P4: bAcc=82.8%  per-class recall [97% 69%] [37.7 min, saved]
+   HERO changes: 1759 synapses depressed (78.9% of positive internal), mean dW=-1.0859, 1137 driven to 0
+   homeostasis: thresholds up 185 / down 103 of 288 internal neurons (mean |dTh|=0.3349); mean internal rate 0.0881 -> 0.0345
+   error signal fired: [195] of 720 training samples per pass
+
+--- Fold 5/10 | test participant P5 ---
+   [encode:participant] mean spike density 0.102; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.00256, eta=0.005, passes=2
+   [fuel] training samples misclassified in-sample: 197 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f5.mat
+   [fuel] training samples misclassified in-sample: 215 of 720
+   [fuel] training samples misclassified in-sample: 189 of 720
+   [fuel] training samples misclassified in-sample: 210 of 720
+   [fuel] training samples misclassified in-sample: 196 of 720
+   P5: bAcc=83.7%  per-class recall [88% 79%] [67.1 min, saved]
+   HERO changes: 1845 synapses depressed (83.6% of positive internal), mean dW=-0.4037, 746 driven to 0
+   homeostasis: thresholds up 184 / down 104 of 288 internal neurons (mean |dTh|=0.7242); mean internal rate 0.0867 -> 0.0682
+   error signal fired: [211 210] of 720 training samples per pass
+
+--- Fold 6/10 | test participant P6 ---
+   [encode:participant] mean spike density 0.107; near-silent ch 1.7/epoch, saturated ch 0.9/epoch
+   using drift=0.00256, eta=0.01, passes=1
+   [fuel] training samples misclassified in-sample: 189 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f6.mat
+   [fuel] training samples misclassified in-sample: 178 of 720
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [fuel] training samples misclassified in-sample: 192 of 720
+   [fuel] training samples misclassified in-sample: 179 of 720
+   P6: bAcc=69.2%  per-class recall [49% 89%] [44.2 min, saved]
+   HERO changes: 1910 synapses depressed (85.0% of positive internal), mean dW=-0.3983, 705 driven to 0
+   homeostasis: thresholds up 197 / down 91 of 288 internal neurons (mean |dTh|=0.4625); mean internal rate 0.0894 -> 0.0771
+   error signal fired: [190] of 720 training samples per pass
+
+--- Fold 7/10 | test participant P7 ---
+   [encode:participant] mean spike density 0.108; near-silent ch 1.7/epoch, saturated ch 0.9/epoch
+   using drift=0.00512, eta=0.05, passes=2
+   [fuel] training samples misclassified in-sample: 185 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f7.mat
+   [fuel] training samples misclassified in-sample: 177 of 720
+   [fuel] training samples misclassified in-sample: 166 of 720
+   [fuel] training samples misclassified in-sample: 172 of 720
+   [fuel] training samples misclassified in-sample: 163 of 720
+   P7: bAcc=65.4%  per-class recall [48% 83%] [46.8 min, saved]
+   HERO changes: 1889 synapses depressed (85.5% of positive internal), mean dW=-1.0818, 1338 driven to 0
+   homeostasis: thresholds up 143 / down 145 of 288 internal neurons (mean |dTh|=0.3142); mean internal rate 0.0906 -> 0.0202
+   error signal fired: [189 187] of 720 training samples per pass
+
+--- Fold 8/10 | test participant P8 ---
+   [encode:participant] mean spike density 0.101; near-silent ch 2.1/epoch, saturated ch 1.1/epoch
+   using drift=0.00512, eta=0.01, passes=1
+   [fuel] training samples misclassified in-sample: 194 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f8.mat
+   [fuel] training samples misclassified in-sample: 182 of 720
+   [fuel] training samples misclassified in-sample: 175 of 720
+   [fuel] training samples misclassified in-sample: 200 of 720
+   [fuel] training samples misclassified in-sample: 187 of 720
+   P8: bAcc=84.2%  per-class recall [94% 74%] [47.2 min, saved]
+   HERO changes: 1832 synapses depressed (84.5% of positive internal), mean dW=-0.4409, 671 driven to 0
+   homeostasis: thresholds up 199 / down 89 of 288 internal neurons (mean |dTh|=0.4811); mean internal rate 0.0933 -> 0.0844
+   error signal fired: [190] of 720 training samples per pass
+
+--- Fold 9/10 | test participant P9 ---
+   [encode:participant] mean spike density 0.101; near-silent ch 2.1/epoch, saturated ch 1.1/epoch
+   using drift=0.00256, eta=0.05, passes=2
+   [fuel] training samples misclassified in-sample: 200 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f9.mat
+   [fuel] training samples misclassified in-sample: 186 of 720
+   [fuel] training samples misclassified in-sample: 191 of 720
+   [fuel] training samples misclassified in-sample: 180 of 720
+   [fuel] training samples misclassified in-sample: 169 of 720
+   P9: bAcc=73.3%  per-class recall [81% 66%] [48.3 min, saved]
+   HERO changes: 1959 synapses depressed (91.7% of positive internal), mean dW=-1.3197, 1409 driven to 0
+   homeostasis: thresholds up 159 / down 129 of 288 internal neurons (mean |dTh|=0.3016); mean internal rate 0.1053 -> 0.0208
+   error signal fired: [206 203] of 720 training samples per pass
+
+--- Fold 10/10 | test participant P10 ---
+   [encode:participant] mean spike density 0.104; near-silent ch 2.0/epoch, saturated ch 1.0/epoch
+   using drift=0.0102, eta=0.001, passes=1
+   [fuel] training samples misclassified in-sample: 192 of 720
+   [snapshot] before/after cube saved to hero_snapshot_all_full_FX_f10.mat
+   [fuel] training samples misclassified in-sample: 186 of 720
+   [fuel] training samples misclassified in-sample: 207 of 720
+   [fuel] training samples misclassified in-sample: 192 of 720
+   [fuel] training samples misclassified in-sample: 186 of 720
+   P10: bAcc=91.7%  per-class recall [95% 88%] [45.9 min, saved]
+   HERO changes: 1809 synapses depressed (81.1% of positive internal), mean dW=-0.0576, 73 driven to 0
+   homeostasis: thresholds up 198 / down 90 of 288 internal neurons (mean |dTh|=0.4997); mean internal rate 0.0908 -> 0.0888
+   error signal fired: [211] of 720 training samples per pass
+
+===== SUMMARY | arm=HERO (10/10 folds) =====
+   PID     bAcc   per-class recall
+     1    90.4%   [98% 83%]
+     2    83.3%   [96% 71%]
+     3    61.7%   [38% 85%]
+     4    82.8%   [97% 69%]
+     5    83.7%   [88% 79%]
+     6    69.2%   [49% 89%]
+     7    65.4%   [48% 83%]
+     8    84.2%   [94% 74%]
+     9    73.3%   [81% 66%]
+    10    91.7%   [95% 88%]
+Mean per-fold bAcc: 78.6%
+Pooled: bAcc=79.2%  per-class recall [81.9% 76.4%]  overallAcc=79.2%
+Pooled confusion (rows=true, cols=predicted):
+        1081         239
+         311        1009
+
+Results saved to prepost_final_results_all_full_FX.mat
